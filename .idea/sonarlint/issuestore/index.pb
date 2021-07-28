@@ -1,0 +1,23 @@
+
+I
+src/main/webapp/index.jsp,8\e\8e6d3b70c9f5b02570779b0441540d45eceb0ded
+I
+src/main/webapp/test.html,a\c\acb3856b6e4ba516f4d4c4edcbcefef3d74e9692
+T
+$src/main/webapp/META-INF/context.xml,c\b\cbfb0d2e9b2b9fbf9d54374577c894a38643c6d0
+]
+-src/main/java/com/sages/proj/TestServlet.java,b\8\b8e54ccd5ee72c5cbab7325c618abce255114bec
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+O
+src/main/webapp/WEB-INF/web.xml,2\e\2e22b6edd746fa3dc40ad7276c87c8d87d72a392
+Q
+!src/main/java/entity/Account.java,6\7\670fce970795821a150492c0d747c1c9d2ecbd52
+Q
+!src/main/java/dao/AccountDao.java,4\a\4ad78b6488abda2b8d9d5f9922f7790c9406ea02
+P
+ src/main/java/dao/DBManager.java,f\2\f2a54e12c80376afacd13ce479ba0e67094f5744
+U
+%src/main/java/dao/AccountDaoImpl.java,a\5\a52cd5efc3ba7cef2817fbe48735e15f2cd3d637
+Y
+)src/main/java/Constants/SQLConstants.java,0\f\0f1e3e895f59d3d95e97d048bc787698f1e2cdca
