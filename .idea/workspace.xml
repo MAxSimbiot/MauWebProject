@@ -9,6 +9,15 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0c69998f-cbe2-486d-b73b-e2f063cb18aa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +32,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -39,6 +51,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1vl5lny6D4gATwObnEKhLAobxHm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,9 +64,22 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.36091954" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 9.0.46" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.46" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/MauWebProject_war/" />
       <option name="UPDATING_POLICY" value="restart-server" />
@@ -193,6 +219,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\maxsi\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="0c69998f-cbe2-486d-b73b-e2f063cb18aa" name="Default Changelist" comment="" />
@@ -204,12 +233,23 @@
       <workItem from="1627306200189" duration="1117000" />
       <workItem from="1627307370078" duration="4021000" />
       <workItem from="1627390102800" duration="6971000" />
-      <workItem from="1627469964925" duration="1373000" />
+      <workItem from="1627469964925" duration="1909000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="299" y="138" width="1089" height="974" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1627308329574">
@@ -228,6 +268,14 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="624" y="425" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1627307831892" />
+    <state x="1394" y="469" key="Github.ShareDialog" timestamp="1627475576552">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1394" y="469" key="Github.ShareDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1627475576552" />
+    <state x="1295" y="276" key="Github.UntrackedFilesDialog" timestamp="1627475585552">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1295" y="276" key="Github.UntrackedFilesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1627475585552" />
     <state width="1185" height="26" key="GridCell.Tab.0.bottom" timestamp="1627424244567">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -292,9 +340,9 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state width="1352" height="113" key="GridCell.Tab.3.right/0.0.2048.1112@0.0.2048.1112" timestamp="1627308340761" />
-    <state x="718" y="139" key="SettingsEditor" timestamp="1627475055843">
+    <state x="923" y="131" key="SettingsEditor" timestamp="1627475545835">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state x="718" y="139" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1627475055843" />
+    <state x="923" y="131" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1627475545835" />
   </component>
 </project>

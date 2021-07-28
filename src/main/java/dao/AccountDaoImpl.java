@@ -1,5 +1,6 @@
 package dao;
 
+import Constants.Constants;
 import Constants.SQLConstants;
 import entity.Account;
 
@@ -30,9 +31,9 @@ public class AccountDaoImpl implements AccountDao {
         ResultSet  rs = ps.executeQuery();
         if(rs.next()){
             Account res = new Account();
-            res.setLogin(rs.getString("login"));
-            res.setPass(rs.getString("password"));
-            res.setLvl(rs.getInt("lvl"));
+            res.setLogin(rs.getString(Constants.LOGIN));
+            res.setPass(rs.getString(Constants.PASSWORD));
+            res.setLvl(rs.getInt(Constants.LVL));
             return res;
         }
        return null;
